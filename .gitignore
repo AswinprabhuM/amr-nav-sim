@@ -1,0 +1,25 @@
+# colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# tf view_frames output
+frames_*.pdf
+frames_*.gv
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+
+CLAUDE.md
